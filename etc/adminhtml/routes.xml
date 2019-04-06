@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="admin">
+        <route id="way2enjoy_compress_images" frontName="way2enjoy_compress_images">
+            <module name="Way2enjoy_CompressImages" />
+        </route>
+    </router>
+</config>

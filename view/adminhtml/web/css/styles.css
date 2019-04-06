@@ -1,0 +1,4 @@
+.way2enjoy-connection-status { padding: 0.7rem 0 0; }
+.way2enjoy-connection-status:before { float: left; position: relative; top: -0.2rem; padding-right: 0.7rem; font-family: 'Admin Icons'; font-size: 1.8rem; }
+.way2enjoy-connection-status.way2enjoy-success:before { color: #79a22e; content: '\e62d'; }
+.way2enjoy-connection-status.way2enjoy-failure:before { color: #eb5202; content: '\e623'; }
