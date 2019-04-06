@@ -45,8 +45,6 @@ visitors, and you’ll save storage space and bandwidth!
 
 Example of plugin configuration in Magento 2:
 
-![Compress JPEG & PNG images configuration screen](https://raw.githubusercontent.com/way2enjoy/magento2-plugin/screenshots/magento2-config.jpg)
-
 ## Getting started
 
 Obtain your free API key from https://way2enjoy.com/developers. The first 500
