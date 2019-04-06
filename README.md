@@ -5,8 +5,8 @@
 Make your Magento 2 store faster by compressing your JPEG and PNG images.
 
 This plugin automatically optimizes your images by integrating with the
-popular image compression services TinyJPG and TinyPNG. Learn more about
-these services on https://tinypng.com/.
+popular image compression services way2enjoy. Learn more about
+these services on https://way2enjoy.com/.
 
 ***Important notice: The latest release of Magento 2.1.6 includes a completely
 different way of generating product images in the cache folder. Magento also
@@ -49,7 +49,7 @@ Example of plugin configuration in Magento 2:
 
 ## Getting started
 
-Obtain your free API key from https://tinypng.com/developers. The first 500
+Obtain your free API key from https://way2enjoy.com/developers. The first 500
 compressions per month are completely free, no strings attached! As each
 product will be shown in different sizes, between 50 and 100 products can be
 uploaded to your Magento webshop and compressed for free. You can also change
